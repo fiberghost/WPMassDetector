@@ -10,6 +10,6 @@ A simple bash script that takes a list of websites and tells you which ones uses
   
 # Notes
   1. This is an ugly script that I coded to automate a certain task.
-  2. If your website list is long, then it will take some time to process it.
+  2. If your websites list is long, then it will take some time to process it.
   3. I will add Jommla and other CMS detection later.
   4. Feel free to edit it.
