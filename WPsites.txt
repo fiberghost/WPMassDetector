@@ -1,0 +1,6 @@
+# This file will contain the url's of websites that use wordpress
+# The final result will be stored here 
+
+1.
+2.
+3.
