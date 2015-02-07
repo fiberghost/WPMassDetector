@@ -1,7 +1,6 @@
 #!/bin/bash
-
 #Author: Ahmed Abbas Mohammed 
-#Version: 1.0
+#Version: 1.2
 
 # Clear the Screen
 clear
@@ -15,7 +14,10 @@ echo " _    __________  ___             ______     _            _
  \/  \/\_|   \_|  |_/\__ _|___/___/___/ \___|\__\___|\___|\__\___/|_|   "
 
 echo ""
-echo "" 
+echo ""
+
+echo -n "" > grepRes.txt
+echo -n "" > WPsites.txt
 
 while read line
 do
@@ -33,6 +35,7 @@ while read line
 do
     url=$line
     echo -e "\e[32m" " [+] WordPress Detected:" "\e[39m" $url
+
 done < $2
 echo ""
-echo ""
+echo "" 
