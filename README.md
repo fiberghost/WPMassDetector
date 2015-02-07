@@ -4,6 +4,7 @@ A simple bash script that takes a list of websites and tells you which ones uses
 # Usage
   1. Clone this repo.
   2. change directory to the new created directory named WPMassDetector 
+  3. Copy your websites url's to the file named sites.
   3. chmod 775 WPMassDetector.sh
   4. ./WPMassDetector.sh sites WPsites.txt
   
