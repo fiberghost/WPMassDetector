@@ -1,0 +1,9 @@
+# This file should contain the list of websites you want to check for WordPress presence
+# It doesn't matter if you write the url like google.com , www.google.com or https://www.google.com
+# Put one site url on each line
+# Some websites are provided just as an example 
+
+www.google.com
+www.yahoo.com
+www.wordpress.com
+www.facebook.com
