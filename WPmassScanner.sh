@@ -34,3 +34,5 @@ do
     url=$line
     echo -e "\e[32m" " [+] WordPress Detected:" "\e[39m" $url
 done < $2
+echo ""
+echo ""
